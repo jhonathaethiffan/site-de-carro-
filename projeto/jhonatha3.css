@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+
+}
+img{
+    height: 500px;
+    width: 500px;
+   
+}
+.container{
+    display:flexbox;
+    justify-content: space-around;
+    list-style: none;
+    
+}
+.img{
+    align-items: center;
+}
+
+
+
+
